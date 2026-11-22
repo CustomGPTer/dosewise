@@ -1,15 +1,8 @@
-The first release of Dosewise, a free, private medicine reminder for Android.
+Dosewise 1.0.1
 
-- Alarms that ring like an alarm clock, with Take, Snooze and Skip
-- Every kind of schedule: set times, every few hours, cycles, tapering doses and as-needed limits
-- About 20,000 UK medicines built in, and scanning of boxes and pharmacy labels
-- Streaks, badges, a 26-week calendar and a history you can correct
-- Supplies, refills and repeat prescriptions, and a travel mode
-- Twelve kinds of health reading with NHS ranges, a symptom diary and appointments
-- A PDF report for your GP, an emergency card and an encrypted backup
-- Family and pet profiles, six colour themes, three widgets and Wear OS reminders
-- No adverts, no account, and no internet access
+- Dosewise no longer asks for permission to send texts, so Android installs it without the "Harmful app blocked" warning some phones showed for 1.0.0
+- Backup person: when a reminder goes unanswered, Dosewise shows an alert with the text ready. One tap opens your messaging app with it written, and you press Send
 
-Needs Android 8 or later. Download `Dosewise.apk` below and open it to install.
+Needs Android 8 or later. Download `Dosewise.apk` below and open it to install over the version you have. Your medicines and history are kept.
 
 Full notes: https://customgpter.github.io/dosewise/releases.html
