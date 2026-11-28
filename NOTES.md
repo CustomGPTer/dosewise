@@ -1,9 +1,7 @@
-Dosewise 1.0.2
+Dosewise 1.0.3 ties the app into TorusApps.com.
 
-- If Dosewise's notifications are switched off, an alarm can ring with nothing on screen. Today now shows a red warning when this happens, and one tap switches notifications back on
-- Dosewise asks for notifications during setup and when you first open Today, and the same warning covers the full-screen alarm and exact-time settings
-- Opening Dosewise while an alarm is ringing now goes straight to the alarm screen, so you can take, snooze or skip at once
+- About now has Website, Check for updates, More apps, Privacy policy and hello@torusapps.com, all opening in your browser. Dosewise itself still has no internet access.
+- About shows Developed by Jonathan Jackson.
+- The Android 12+ splash uses Dosewise's night background, so there is no white flash before the opening screen. Disguised icons stay disguised.
 
-Needs Android 8 or later. Download `Dosewise.apk` below and open it to install over the version you have. Your medicines and history are kept.
-
-Full notes: https://customgpter.github.io/dosewise/releases.html
+Installs over the earlier version and keeps everything.
